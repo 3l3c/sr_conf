@@ -23,8 +23,8 @@ DOMAIN-SUFFIX,8kun.top
 DOMAIN-SUFFIX,8kun.top/freekukuku/index
 DOMAIN-SUFFIX,z-library.se
 DOMAIN-SUFFIX,singlelogin.se
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steampowered.com
+#DOMAIN-SUFFIX,steamcommunity.com
+#DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,sotwe.com
 DOMAIN-SUFFIX,v2ray-agent.com
 DOMAIN-SUFFIX,1lib.ph
